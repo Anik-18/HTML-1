@@ -43,7 +43,7 @@
 	20. Code Tag: <code></code> (use code font and show the browser) -- inline element
 	21. Insert Tag : <ins></ins> ---- (For Text Underline)
 	22. Mark Tag : <mark></mark> ---- (For Text Highlight)
-
+        23. Blockquote Tag : <blockquote></blockquote>
 
 ### Attibutes:
 	body= bgcolor, background (image set up)
