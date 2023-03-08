@@ -43,7 +43,10 @@
 	20. Code Tag: <code></code> (use code font and show the browser) -- inline element
 	21. Insert Tag : <ins></ins> ---- (For Text Underline)
 	22. Mark Tag : <mark></mark> ---- (For Text Highlight)
-        23. Blockquote Tag : <blockquote></blockquote>
+	23. Blockquote Tag : <blockquote></blockquote>
+	24. Address Tag : <address></address>
+	25. Abbr Tag : <abbr></abbr>
+	26. BDO Tag : <bdo></bdo> [Atttribute :- dir="rtl"] (Change Text direction)
 
 ### Attibutes:
 	body= bgcolor, background (image set up)
