@@ -41,6 +41,7 @@
 	18. Span Tag: <span></span> --- inline element
 	19. Pre Tag: <pre></pre> (you write any paragraph, pre tag show brower this style)
 	20. Code Tag: <code></code> (use code font and show the browser) -- inline element
+	21. Insert Tag : <ins></ins> ---- (For Text Underline)
 
 
 ### Attibutes:
