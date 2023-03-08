@@ -45,8 +45,9 @@
 	22. Mark Tag : <mark></mark> ---- (For Text Highlight)
 	23. Blockquote Tag : <blockquote></blockquote>
 	24. Address Tag : <address></address>
-	25. Abbr Tag : <abbr></abbr>
+	25. Abbr Tag : <abbr></abbr> [Attribute :- title=""]
 	26. BDO Tag : <bdo></bdo> [Atttribute :- dir="rtl"] (Change Text direction)
+	27. Marquee Tag : <marquee></marquee>
 
 ### Attibutes:
 	body= bgcolor, background (image set up)
